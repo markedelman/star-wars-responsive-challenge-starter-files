@@ -1,0 +1,49 @@
+nav {
+    background-color: #E6BD2F;
+    position: fixed;
+    height: 80px;
+    width: 100%;
+}
+
+.header {
+    position: absolute;
+    top: -12%;
+    left: 4%;
+    font-size: 160%;
+    font-weight: bold;
+}
+
+.clarification {
+    position: absolute;
+    top: 43%;
+    left: 4%;
+    font-weight: bold;
+    font-size: 80%;
+}
+
+main {
+    padding-top: 100px;
+}
+
+main .row {
+    margin-bottom: 20px;
+}
+
+.box {
+    height: 200px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+
+/*ray
+finn
+kylo
+poe
+chewbacca
+yoda*/
